@@ -1,5 +1,5 @@
 framework module AWSCore {
-  umbrella header "AWSCore-umbrella.h"
+  umbrella header "AWSCore.h"
 
   export *
   module * { export * }

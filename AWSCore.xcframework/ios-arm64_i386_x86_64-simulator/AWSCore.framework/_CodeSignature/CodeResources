@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/AWSCredentialsProvider.h</key>
 		<data>
-		fzSZUzDS/L1r7QXCnyJnp4Y36s8=
+		vZMxnXhszRQboyaMZ768xTx5YzE=
 		</data>
 		<key>Headers/AWSDDASLLogCapture.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/AWSIdentityProvider.h</key>
 		<data>
-		Lpn5pVdk7dEIJHKfIK24llryAgs=
+		DaYDzBUtx2tFw7jFANNGEIOjtyo=
 		</data>
 		<key>Headers/AWSInfo.h</key>
 		<data>
@@ -186,19 +186,19 @@
 		</data>
 		<key>Headers/AWSSTS.h</key>
 		<data>
-		vgyXkO0ITfN2tWQZmhlSWvs0wiE=
+		ym3A8DVrZqxn9X1kU+S9Z03UMeE=
 		</data>
 		<key>Headers/AWSSTSModel.h</key>
 		<data>
-		M/FVIqzF8zPbkg/vHVwpA1eJNE8=
+		+jBIKJ9hIj295j6pHyCcNdURYII=
 		</data>
 		<key>Headers/AWSSTSResources.h</key>
 		<data>
-		Qhur0WuZxZzXpyt2mJdEIJqv9yQ=
+		unQcK0jsBIUYS4HDUq4bJKKMxWo=
 		</data>
 		<key>Headers/AWSSTSService.h</key>
 		<data>
-		jfN5uWNOUq98sNekkraOcolrXgM=
+		uYbKkMY7xoQGXgz2rCFefERxMVo=
 		</data>
 		<key>Headers/AWSSerialization.h</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>Headers/AWSServiceEnum.h</key>
 		<data>
-		wl6zNC/H99m/COd8hPqZAZgGlVk=
+		LD2jV9xB/1HlH02Qo+DaOs3zTq0=
 		</data>
 		<key>Headers/AWSSignature.h</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>Headers/AWSUICKeyChainStore.h</key>
 		<data>
-		WS9J0m/nKFmHld6rlC4FVM+/qGI=
+		0AXh5ZVWNqlD//tZ9rM1KRTZUtQ=
 		</data>
 		<key>Headers/AWSURLRequestRetryHandler.h</key>
 		<data>
@@ -282,7 +282,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2op0vKOh8w5gq4RmPM5bkILoXHI=
+		UDAmmxe4u9GJqaLuzvwxu5X8mo0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -431,11 +431,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fzSZUzDS/L1r7QXCnyJnp4Y36s8=
+			vZMxnXhszRQboyaMZ768xTx5YzE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Snr4tEPafUkzR46SjehTN+XXfhQXdXt2DsmyniVOPKU=
+			afQcHuXm0GAYxgAT/XVNwmV063bdgCJYxZ8kTP4EdQk=
 			</data>
 		</dict>
 		<key>Headers/AWSDDASLLogCapture.h</key>
@@ -640,11 +640,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Lpn5pVdk7dEIJHKfIK24llryAgs=
+			DaYDzBUtx2tFw7jFANNGEIOjtyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			G2MxIbEzJLGDM+39WeQMxhy2k3lV1zl7K36Odc0CZZA=
+			U8L/ndH0h8Aqvxoztfr0BSMoDIQY707igiKW3q1ZP8U=
 			</data>
 		</dict>
 		<key>Headers/AWSInfo.h</key>
@@ -794,44 +794,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vgyXkO0ITfN2tWQZmhlSWvs0wiE=
+			ym3A8DVrZqxn9X1kU+S9Z03UMeE=
 			</data>
 			<key>hash2</key>
 			<data>
-			KVakzYm18jvrRSmqRoB8L3klDxMWeO5yRUNI+UyzRwg=
+			rdKKnmXP2mAyxk9yHuvtR77M6DBYZ0Moz3zPbARjTMQ=
 			</data>
 		</dict>
 		<key>Headers/AWSSTSModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M/FVIqzF8zPbkg/vHVwpA1eJNE8=
+			+jBIKJ9hIj295j6pHyCcNdURYII=
 			</data>
 			<key>hash2</key>
 			<data>
-			BhcXloKf3eH8kyNhKFR07eBRGqvwhijSq6fX9BwUu5s=
+			W3uttD1Jd+wd9O8LF+x9xy6G3a5VtAWRGiwqCSOcQTo=
 			</data>
 		</dict>
 		<key>Headers/AWSSTSResources.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qhur0WuZxZzXpyt2mJdEIJqv9yQ=
+			unQcK0jsBIUYS4HDUq4bJKKMxWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			SN7tLwxsJ/9XyNLTenm0X1dw1kU/GReUfjdYaSN0wh0=
+			V+rkgQYr3xCmpuc7NQPanrIHYULeEf2O/1xNN7wn8jI=
 			</data>
 		</dict>
 		<key>Headers/AWSSTSService.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jfN5uWNOUq98sNekkraOcolrXgM=
+			uYbKkMY7xoQGXgz2rCFefERxMVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q6z/rvw1int9kg7QDGyF+yK5eQecEdm4jfPcUJ+Tmac=
+			tcbgUw8RYjmODV23Fs3Abd3laOPc/DQQF9M/Hpq+WAI=
 			</data>
 		</dict>
 		<key>Headers/AWSSerialization.h</key>
@@ -860,11 +860,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wl6zNC/H99m/COd8hPqZAZgGlVk=
+			LD2jV9xB/1HlH02Qo+DaOs3zTq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			NRFNQE9pGQs367qlEaagXBYEMqxbv923msCb7zncWf8=
+			MeJG++N5FxH94wxm7bfGx5cYe8+5rOazPcGVhSIczfQ=
 			</data>
 		</dict>
 		<key>Headers/AWSSignature.h</key>
@@ -926,11 +926,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WS9J0m/nKFmHld6rlC4FVM+/qGI=
+			0AXh5ZVWNqlD//tZ9rM1KRTZUtQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			wsbZPa7zCsLaLc80J6QWvFFie6HMqshM+c0f08JEzmY=
+			17oemYkI5m119A5sB27q8YbiaukY7mx+kup9w2eHw94=
 			</data>
 		</dict>
 		<key>Headers/AWSURLRequestRetryHandler.h</key>

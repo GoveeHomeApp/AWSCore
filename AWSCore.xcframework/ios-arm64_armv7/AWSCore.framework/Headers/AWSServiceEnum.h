@@ -80,10 +80,6 @@ typedef NS_ENUM(NSInteger, AWSRegionType) {
      */
     AWSRegionAPSoutheast3 NS_SWIFT_NAME(APSoutheast3),
     /**
-     * Asia Pacific (Melbourne)
-     */
-    AWSRegionAPSoutheast4 NS_SWIFT_NAME(APSoutheast4),
-    /**
      *  Asia Pacific (Mumbai)
      */
     AWSRegionAPSouth1 NS_SWIFT_NAME(APSouth1),
@@ -236,10 +232,6 @@ typedef NS_ENUM(NSInteger, AWSServiceType) {
      *  Amazon Kinesis Video Signaling
      */
     AWSServiceKinesisVideoSignaling NS_SWIFT_NAME(KinesisVideoSignaling),
-    /**
-     *  Amazon Kinesis Web RTC Storage
-     */
-    AWSServiceKinesisVideoWebRTCStorage NS_SWIFT_NAME(KinesisVideoWebRTCStorage),
     /**
      *  AWS Key Management Service (KMS)
      */
